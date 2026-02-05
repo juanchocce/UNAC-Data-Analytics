@@ -40,7 +40,7 @@ El proyecto se divide en tres áreas principales:
 
 **Juan Chocce** - *Ingeniero de Sistemas*
 * GitHub: [@juanchocce](https://github.com/juanchocce)
-* Proyecto: [UNAC-Project](https://github.com/juanchocce/UNAC-Project)
+* Proyecto: [UNAC-Project](https://github.com/juanchocce/UNAC-Data-Analytics)
 * Linkedin: [Juan Chocce](https://www.linkedin.com/in/juanchocce/)
 
 ---
